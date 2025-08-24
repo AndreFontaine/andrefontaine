@@ -50,12 +50,12 @@ I'm Andres Gonzalez Barbosa, I'm Colombian software engineer currently living in
 
 ---
 
-## ✉️ Contacto
+## ✉️ Contact me at andres-dot-gonzalez-dot-ud-at-gmail-dot-com
 
 <div align="center">
 
 **Social** 🚀
 
-[![Twitter](https://img.shields.io/twitter/follow/0gis0?style=for-the-badge)](https://twitter.com/0gis0 "Follow me on X")
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giselatorresbuitrago/ "See where I have work")
+[![Twitter](https://img.shields.io/twitter/follow/AndreFontaine?style=for-the-badge)](https://twitter.com/AndreFontaine "Follow me on X")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agonzalezb/ "See where I have work")
 </div>
