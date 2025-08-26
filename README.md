@@ -23,7 +23,7 @@ I'm Andres Gonzalez Barbosa, I'm Colombian software engineer currently living in
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "Visual Studio Code")
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge "Windows")
-![Linux](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=green&style=for-the-badge "Linux")
 
 
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge "Docker")
