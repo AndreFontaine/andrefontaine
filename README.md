@@ -57,5 +57,5 @@ I'm Andres Gonzalez Barbosa, I'm Colombian software engineer currently living in
 **Social** 🚀
 
 [![Twitter](https://img.shields.io/twitter/follow/AndreFontaine?style=for-the-badge)](https://twitter.com/AndreFontaine "Follow me on X")
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agonzalezb/ "See where I have work")
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andresgonzalezud/ "See where I have work")
 </div>
